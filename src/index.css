@@ -1,0 +1,5 @@
+.board-container {
+  display: flex;
+  width: 310px;
+  flex-wrap: wrap;
+}
